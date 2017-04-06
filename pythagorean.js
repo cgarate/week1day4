@@ -1,5 +1,5 @@
 
-// Caluclate the Pythagorean Theorem using an anonymous function.
+// Calculate the Pythagorean Theorem using an anonymous function.
 var input = [
   { x: 3, y: 4 },
   { x: 12, y: 5 },
